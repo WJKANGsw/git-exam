@@ -1,5 +1,7 @@
 def sayHello(name):
-    return 'Hello, ' + name
+    return 'Hi, ' + name  # user02 수정
     
 inName = Tom
 print(sayHello(inName))
+
+print('modified by user02') # user02 추가
